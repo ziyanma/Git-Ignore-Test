@@ -1,0 +1,23 @@
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+
+# ignore all .o files 
+*.o
+
+# ignore all .in files
+*.in
+
+# ignore all .out files
+*.out
+
+# ignore output.txt
+**/output.txt
+
+# ignore all .DS_Store files which you created during copying and pasting somethings 
+**/.DS_Store
